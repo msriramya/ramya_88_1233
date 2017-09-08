@@ -64,6 +64,7 @@ System.out.println("student date of birth = "+dob[i]);
 
 	@Override
 	public boolean equals(Object o) {
+		if (this==o)
 
 	}
 
